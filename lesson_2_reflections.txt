@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	A: When running git init, you are initializing a new git repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	A: The staging area is merely a intermediate palce between the repository and the working directory that allows for specific files to be bundled and committed instead of all of them, which reduces redundancy
